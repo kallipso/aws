@@ -123,6 +123,7 @@ rm -f /root/ssr.sh
 rm -f /root/shadowsocksobfs.sh
 rm -f /root/ins-vt.sh
 rm -f /root/ipsec.sh
+rm -f /root/install-menu
 
 history -c
 echo "2.1" >> /home/ver
