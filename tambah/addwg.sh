@@ -79,7 +79,7 @@ echo Generate PresharedKey
 clear
 echo -e ""
 echo -e "==========-Wireguard-=========="
-echo -e "Wireguard	: http://$MYIP:81/$CLIENT_NAME.conf"
+echo -e "Wireguard	: http://$IP:81/$CLIENT_NAME.conf"
 echo -e "==============================="
 echo -e "Expired On     : $exp"
 echo -e ""
